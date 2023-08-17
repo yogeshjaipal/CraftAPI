@@ -1,3 +1,4 @@
+
 # CraftAPIClient
 
 ## Description
@@ -5,21 +6,7 @@
 changes done on read me
 
 This is Minecraft library for contacting the Mojang API. It features modern features of Java and flexible way of
-communicating with Mojang. Furthermore, this project is used for experimenting with Unit-Tests.
-
-## Features
-
-* Minimal requirements to integrate it into Sponge, BungeeCord and Spigot
-* Compatibility with Minecraft 1.7.10+
-* Thread-Safe
-* Usage of modern Java 8 features
-* UUID and skin querying
-* Skin changing
-* Rotating multiple outgoing source IPs
-* Throws exceptions to let the user decide how to handle errors
-* Default in-memory cache
-* Rotating proxies
-* Configurable amount of name -> uuid requests before using proxies
+communicating with Mojang. Furthermore, this project is used for experimenting with Unit-Tests
 
 ## Planned
 
